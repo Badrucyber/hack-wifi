@@ -25,7 +25,7 @@ yellow='\e[1;33m'
 sleep 3
 echo "\033[32;1m
 #################################
-#-AUTHOR=MUHMAD BADRU               #
+#-AUTHOR=MUHAMAD BADRU               #
 #-INSTAGRAM=@wa.stry23            #
 #-Team=NO TEAM                  #
 #-Email=mbadruwasih8@gmail.com    #
