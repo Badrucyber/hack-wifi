@@ -6,11 +6,13 @@ $ pkg install git
 
 $ pkg install python2
 
-$ git clone https://github.com/reyspeed/wifi
+$ git clone https://github.com/Badrucyber/hack-wifi
 
-$ cd wifi
+$ cd hack-wifi
 
 $ bash WIFI-WA.sh
+
+
 
 
 Peringatan
